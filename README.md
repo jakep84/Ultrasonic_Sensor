@@ -5,6 +5,7 @@ Components
 ----------
  - Arduino Uno
  - HC-SR04 sensor
+ - Arduino prototype shield
  
 Sensor Datasheet
 -----------------
